@@ -44,4 +44,7 @@ require("lazy").setup({
     "nvim-telescope/telescope.nvim",
     "goolord/alpha-nvim",
     "petertriho/nvim-scrollbar",
+
+    --auto-pairs
+    "windwp/nvim-autopairs",
 })
