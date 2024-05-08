@@ -1,8 +1,8 @@
 # neovim-zen
 
-my zen neovim setup
+my neovim setup
 
-![screenshot](https://maxhu.dev/assets/neovim-zen/1.png)
+![image](https://github.com/dask-58/dot-files/assets/140686560/550f8698-e225-4f0f-9b25-9f2e16ab1fd0)
 
 ## quick-start
 
