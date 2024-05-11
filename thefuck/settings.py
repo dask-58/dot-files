@@ -12,7 +12,7 @@
 # exclude_rules = []
 # wait_command = 3
 # require_confirmation = True
-# no_colors = False
+no_colors = False
 # debug = False
 # priority = {}
 # history_limit = None
