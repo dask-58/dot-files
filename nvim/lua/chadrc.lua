@@ -5,7 +5,7 @@
 local M = {}
 
 M.ui = {
-	theme = "monekai",
+	theme = "chadracula",
   nvdash = {
     load_on_startup = true,
     header = {
