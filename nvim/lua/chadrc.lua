@@ -5,7 +5,7 @@
 local M = {}
 
 M.ui = {
-	theme = "chadracula",
+	theme = "github_dark",
   nvdash = {
     load_on_startup = true,
     header = {
