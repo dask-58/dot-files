@@ -1,0 +1,1 @@
+export default function prompt<T extends Readonly<import("../../types.js").Prompt> | readonly import("../../types.js").Prompt[]>(questions: T, opts?: import("../../types.js").PromptOptions | undefined): Promise<import("../../types.js").Answers<T>>;

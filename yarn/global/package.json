@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "cpbooster": "^2.6.5",
+    "create-astro": "^4.8.0"
+  }
+}
