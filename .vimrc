@@ -1,7 +1,7 @@
 syntax enable
 syntax on
 
-colorscheme blue
+colorscheme koehler
 
 set nocompatible          
 set number               
